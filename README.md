@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LeoDreamer2004&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LeoDreamer2004&show_icons=true)
 
 🔭 I am a undergraduate student at Peking University, majoring in Applied Mathematics and minoring in Computer Science. I focus on computer vision, especially 3D vision and model perception.
 
