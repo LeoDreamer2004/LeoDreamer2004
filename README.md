@@ -8,4 +8,4 @@
 
 🌱 I love working on software projects and maybe I am becoming a Minecraft mod developer.
 
-📫 My email <913116367@qq.com> and blog <https://leodreamer2004.github.io/> in github pages.
+📫 My email <913116367@qq.com> and blog <https://leodreamer2004.github.io> in github pages.
