@@ -2,7 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeoDreamer2004&show_icons=true&theme=radical" alt="LeoDreamer2004's GitHub stats" />
 
-🔭 I am a undergraduate student at Peking University, majoring in Applied Mathematics and minoring in Computer Science. I focus on computer vision, especially 3D vision and model perception.
+👷 An undergraduate student at Peking University, majoring in Applied Mathematics and minoring in Computer Science.
+
+🔭 I focus on computer vision, especially 3D vision and model perception.
 
 🌱 I love working on software projects and maybe I am becoming a Minecraft mod developer.
 
